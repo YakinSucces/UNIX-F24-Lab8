@@ -10,4 +10,6 @@ For each of the statements below, mark with an “X” the column that correctly
 6. Git and GitHub are not the same
 7. System D is the first init system introduced in Unix.
 8. Newly created users by default have sudo permissions.
+9.Doing a git push will commit changes to your repositery
+
 
